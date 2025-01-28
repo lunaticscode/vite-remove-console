@@ -2,6 +2,10 @@
 
 `vite-remove-console` is a Vite plugin designed to help you clean up console statements (e.g., `console.log`, `console.warn`) from your code during the build process. It ensures that your production build is free from unnecessary console statements, improving both security and performance.
 
+## :file_folder: NPM Package
+
+https://www.npmjs.com/package/vite-remove-console
+
 ## Features
 
 - Removes specified `console` methods (e.g., `log`, `info`, `warn`, `error`) during the build phase.
