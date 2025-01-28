@@ -1,5 +1,3 @@
-import "./App.css";
-
 function App() {
   console.log("[LOG] This is console.log");
   console.error("[ERROR] This is console.error");
